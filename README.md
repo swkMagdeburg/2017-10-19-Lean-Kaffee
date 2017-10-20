@@ -28,6 +28,10 @@
 * Developer Open Space
 * Spartakiade
 
+## sonstiges
+* Visual Studio Dev Essentials - mit Schulungs- und Supportangeboten - 3 Monate PluralSight z.B. (https://www.visualstudio.com/de/dev-essentials/)
+
+
 # WaterScrum - Scrum/Agile im Wasserfall
 * Buch: Nils Pfläging - Organisation für Komplexität: Wie Arbeit wieder lebendig wird - und Höchstleistung entsteht
 
